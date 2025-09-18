@@ -1,3 +1,5 @@
-tensorflow
-numpy
-matplotlib 
+streamlit
+google-generativeai
+reportlab
+PyPDF2
+python-docx
